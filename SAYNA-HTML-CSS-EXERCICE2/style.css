@@ -1,0 +1,49 @@
+.navigation{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    padding: 50px;
+}
+h4{
+    display: flex;
+    justify-content: center;
+    color:#3d9f96;
+    padding: 10px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+button{
+    color: #fff;
+    background-color: #3d9f96;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+
+}
+.img{
+    display: flex;
+    justify-content: space-between;
+}
+h5{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.container-fluid5{
+    background-image: url('./assets/img/map_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-fluid6{
+    background-image: url('./assets/img/seperator1-.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300PX;
+}
